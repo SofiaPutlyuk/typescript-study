@@ -1,0 +1,24 @@
+{
+  "name": "typescript-study",
+  "version": "1.0.0",
+  "description": "Here i'm going to study typescript",
+  "main": "index.js",
+  "scripts": {
+    "start":"tsc -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SofiaPutlyuk/typescript-study.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/SofiaPutlyuk/typescript-study/issues"
+  },
+  "homepage": "https://github.com/SofiaPutlyuk/typescript-study#readme",
+  "dependencies": {
+    "typescript": "^5.9.2"
+  }
+}
